@@ -16,7 +16,7 @@ function draw() {
     var c = color(11, 84, 253); // Define color 'c'
     fill(c); // Use color variable 'c' as fill color
     noStroke(); // Don't draw a stroke around shapes
-    rect(85,85,90,80); //Draw a rectangle
+    rect(40,120,120,40); //Draw a rectangle
   }
   print(mouseIsPressed); //writes to the console area of your browser. 
   }
